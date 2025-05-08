@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakfast_menu xml:lang="en">
+   <food name="Belgian Waffles">
+      <price>$5.55</price>
+      <description>This is a description for Belgian Waffles.</description>
+      <calories>555</calories>
+   </food>
+   <food name="French Toast">
+      <price>$4.44</price>
+      <description>This is a description for French Toast.</description>
+      <calories>400</calories>
+   </food>
+   <food name="Homestyle Breakfast">
+      <price>$3.33</price>
+      <description>This is a description for Homestyle Breakfast.</description>
+      <calories>333</calories>
+   </food>
+</breakfast_menu>
