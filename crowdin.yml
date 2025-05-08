@@ -1,8 +1,8 @@
 files:
   - source: /*.json
     translation: /translation/%two_letters_code%/%original_file_name%
-  - source: /*.xml
+  - source: '*.xml'
     ignore:
-      - /Example.xml
+      - Example.xml
     translation: /project/%three_letters_code%/%original_file_name%
     update_option: update_without_changes
