@@ -10,4 +10,4 @@ files:
     update_option: update_without_changes
     export_languages:
       - uk
-      - spn
+      - spa
