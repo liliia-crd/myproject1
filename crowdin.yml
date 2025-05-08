@@ -1,9 +1,0 @@
-files:
-  - source: /*.json
-    translation: /translations/%two_letters_code%/%original_file_name%
-files:
-  - source: / Example*.json
-    translation: /translations/proj1/%two_letters_code%/%original_file_name%
-    files:
-  - source: /multilingual_test*.json
-    translation: /translations/proj2/%two_letters_code%/%original_file_name%
