@@ -2,16 +2,16 @@
   "en": {
     "api": {
       "activity_graphic": {
-        "hourly_chart": "Hourly chart",
-        "hours_of_use": "Hours of use"
+        "hourly_chart": "",
+        "hours_of_use": ""
       }
     }
   },
   "fr": {
     "api": {
       "activity_graphic": {
-        "hourly_chart": "Graphique horaire",
-        "hours_of_use": "Heures d'utilisation"
+        "hourly_chart": "",
+        "hours_of_use": ""
       }
     }
   }
