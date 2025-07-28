@@ -1,7 +1,7 @@
 files:
   - source: /*.json
     translation: /translation/%two_letters_code%/%original_file_name%
-    update_option: 'update_without_changes'
+    update_option: 'update_as_unaproved'
   - source: '*.xml'
     ignore:
       - Example.xml
